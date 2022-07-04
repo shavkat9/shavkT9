@@ -1,0 +1,21 @@
+body{
+
+    text-align: center;
+    background: black;
+}
+h1{
+    text-align: center;
+    color: white;
+
+}
+button{
+    padding: 7px 10px;
+    margin: auto;
+    background: white;
+    color: black;
+    font-size: 24px;
+    border-radius: 8px;
+    text-align: center;
+
+
+}
